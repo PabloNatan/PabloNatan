@@ -5,6 +5,7 @@
 <img  src="https://user-images.githubusercontent.com/62909574/239472661-f4b108c2-5389-42ef-b164-1b64faf8af60.svg" alt="js" width="30" height="30" style="max-width:100%"></img>&nbsp;&nbsp;&nbsp;
 <img  src="https://user-images.githubusercontent.com/62909574/239473604-55cb7e31-e6c4-45cb-ab5e-493f20106f94.svg" alt="ts" width="30" height="30" style="max-width:100%"></img>&nbsp;&nbsp;&nbsp;
 <img src="https://user-images.githubusercontent.com/62909574/239477248-529ba90a-19fb-4ca7-a311-ab9b65ee458c.svg" alt="react" width="30" height="30" style="max-width:100%">&nbsp;&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/62909574/239485946-960d7338-d0fb-4d74-8fd2-79f6a8887eff.png" alt="tailwindcss" width="30" height="30" style="max-width:100%">&nbsp;&nbsp;&nbsp;
 <img src="https://user-images.githubusercontent.com/62909574/239473612-826bbc5b-7e83-4066-b0a0-8b596a3568b4.svg" alt="node" width="30" height="30" style="max-width:100%">&nbsp;&nbsp;&nbsp;
 <img src="https://user-images.githubusercontent.com/62909574/239478128-9d5f9f5d-8c40-4383-9180-ac04fd6b9fad.svg" alt="expo" width="30" height="30" style="max-width:100%">&nbsp;&nbsp;&nbsp;
 <img src="https://user-images.githubusercontent.com/62909574/239473599-56d7ef2f-65e7-4904-a3d2-ff7d01ef372c.svg" alt="express" width="30" height="30" style="max-width:100%"></img>&nbsp;&nbsp;&nbsp;
