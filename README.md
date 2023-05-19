@@ -1,14 +1,4 @@
-<p>
-  <h4 align="left"><b>hey there, I'm Pablo Fullstack Javascript Developer👋</b></h1>
-</p>
-
-<p>
-
-</p>
-
-<div align="center">
- <h2></h2>
-<div align="center">
+hey there, I'm Pablo Fullstack Javascript Developer👋
 
 ### Tech Stack
 
@@ -24,17 +14,17 @@
 </img>&nbsp;&nbsp;<img  src="https://user-images.githubusercontent.com/62909574/239474939-3bbf5a37-449b-4df8-a4de-b2f92a5bc491.svg" alt="docker" width="40" height="40" style="max-width:100%"></img>&nbsp;&nbsp;&nbsp;
 <img  src="https://user-images.githubusercontent.com/62909574/239473585-e69ee805-a0b8-40ff-97e8-3f86dc15a472.svg" alt="postgres" width="40" height="40" style="max-width:100%"></img>&nbsp;&nbsp;&nbsp;
 <img  src="https://user-images.githubusercontent.com/62909574/239475527-dcfbbe21-deb8-450f-93e2-838d6f1532f8.svg" alt="jest" width="40" height="40" style="max-width:100%"></img>&nbsp;&nbsp;&nbsp;
-<img  src="https://user-images.githubusercontent.com/62909574/239479215-36a72f21-d4c4-4595-ae5b-a7085d575312.svg" alt="cypress" width="40" height="40" style="max-width:100%"></img>&nbsp;&nbsp;&nbsp;
+<img  src="https://user-images.githubusercontent.com/62909574/239480413-01037699-b877-49c4-be22-ace390c96a35.svg" alt="cypress" width="40" height="40" style="max-width:100%"></img>&nbsp;&nbsp;&nbsp;
 
 </div>
 
- <h2></h2>
-
 <div align="left">
 
-### Reach Me
+### 🌐 Find me
 
-<a href="https://www.linkedin.com/in/pablo-santos-a241b621b/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></igm> </a>
+<a href="https://www.linkedin.com/in/pablo-santos-a241b621b/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></igm></a>
+<br>
+<a href="mailto:pablonatan.d.r.s@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></igm></a>
 
 </div>
 
